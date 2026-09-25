@@ -1,0 +1,86 @@
+WHOIS / DOMAIN INTELLIGENCE REPORT
+1. Target Information
+
+Domain: example.com
+Date Investigated: 23 September 2026
+Investigation Type: Passive Domain Intelligence
+Authorization: Educational / documentation exercise
+
+2. Registration Information
+
+Registrar / Registration Authority: Internet Assigned Numbers Authority (IANA)
+Creation Date: 1 January 1992
+Domain Age: Approximately 34 years
+Nameserver Information: Registration information for the example domain is maintained by IANA.
+Privacy Protection: Not applicable in the normal commercial-domain sense because example.com is an IANA-reserved example domain.
+Domain Status: Reserved for documentation/example use.
+
+IANA states that example.com and other example domains are maintained for documentation purposes and are not available for normal registration or transfer.
+
+3. Important Observations
+Finding 1 — Very old creation date
+
+The domain is recorded as having been created on 1 January 1992.
+
+Interpretation:
+The domain is not a newly registered domain. However, because it is an IANA-reserved example domain, its age should not be compared directly with the age of an ordinary commercial domain.
+
+Finding 2 — IANA maintains the domain
+
+The WHOIS information identifies the organization as Internet Assigned Numbers Authority (IANA).
+
+Interpretation:
+This is consistent with IANA's documentation that example.com is reserved for examples and documentation.
+
+Finding 3 — The domain is reserved
+
+IANA explicitly states that example.com is maintained for documentation purposes and is not available for registration or transfer.
+
+Interpretation:
+This is not a normal domain-registration case. It should therefore be treated as a safe educational example rather than a real-world suspicious-domain investigation.
+
+4. Potential Security Significance
+
+There is no basis from the registration information alone to classify example.com as malicious.
+
+The main lesson from this investigation is how domain-registration information can provide context.
+
+For a real suspicious domain, useful indicators might include:
+
+Very recent registration
+Suspicious domain naming
+Registration information that changes unexpectedly
+Infrastructure associated with known malicious activity
+Other threat-intelligence indicators
+
+However:
+
+A newly registered domain does not automatically mean that the domain is malicious.
+
+Additional evidence would always be required.
+
+5. Additional Evidence Required for a Real Investigation
+
+If investigating an actual suspicious domain, an analyst could correlate registration information with:
+
+DNS records
+Website content
+URL reputation
+Threat-intelligence reports
+Certificate information
+Email context
+Domain similarity to legitimate organizations
+Known malicious infrastructure
+
+The goal is to combine multiple observations rather than making a decision from one indicator.
+
+6. Limitations
+example.com is an IANA-reserved example domain rather than a normal commercial domain.
+Therefore, this investigation does not demonstrate how a real suspicious domain's ownership or privacy-protected registration information would appear.
+WHOIS/registration information alone cannot establish whether a domain is malicious.
+Registration information may be limited or privacy-protected for ordinary domains.
+7. Final Conclusion
+
+The investigation shows that domain-registration data can provide useful contextual information such as creation date and registration authority.
+
+For example.com, the information is consistent with its special purpose as an IANA-reserved documentation domain.
