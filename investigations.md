@@ -17,3 +17,65 @@ Useful questions include:
 A current page is only one point in time.
 
 History can provide context that the current version does not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Observation
+
+The most useful evidence is not always in the final version.
+
+Compare the changes carefully.
